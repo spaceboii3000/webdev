@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+link{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+* {
+    padding: 10px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.box-one {
+    background-color: #EB5757;
+    padding: 20px;
+    border: 0 solid #9B51E0
+}
+
+.box-two {
+    background-color:#2D9CDB;
+    border: 0 solid #27AE60;
+}
+
+button {
+    background-color:blue; 
+    color:white; 
+    font-size:18px; 
+    padding:10px;
+}
+
+#button {
+    border: 20px;
+}
